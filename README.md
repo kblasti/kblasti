@@ -2,5 +2,5 @@
 
   - I studied Music Performance in college (Bachelor's and Master's) and am learning backend development through Boot.dev
   - Very proficient with Golang and specifically server/api structure
-  - Strong interest in tools for aiding in tabletop gaming (D&D, Warhammer 40k, etc.)
+  - Strong interest in tools for tabletop gaming (D&D, Warhammer 40k, etc.)
   - Interested in indie game development
